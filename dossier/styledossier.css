@@ -1,0 +1,32 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+
+}
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+header {
+  height: 100vh;
+  width: 100vw;
+  background-image: url(photo//backgoud.jpg);
+  background-size: cover;
+}
+
+ol{
+  position: absolute;
+  padding: 100px;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+  color: brown;
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: bold;
+  letter-spacing: 0.2em;
+}
